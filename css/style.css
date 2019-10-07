@@ -127,8 +127,8 @@ iframe {
 .layout{
   width: 66%;
   padding: 10px;
-  margin: 1%
-  float: right;
+  display: inline;
+    float: left;
 }
 .layout1{
   width: 32%;
