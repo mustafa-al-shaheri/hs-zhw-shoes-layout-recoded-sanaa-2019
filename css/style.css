@@ -112,6 +112,8 @@ iframe {
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+   width: 100% auto;
+  display: inline;
 }
 
 .milk_text {
@@ -120,9 +122,9 @@ iframe {
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
 }
-.shadow #layout{
+/*.shadow #layout{*/
  
-}
+/*}*/
 .layout{
   width: 66%;
   padding: 10px;
