@@ -120,6 +120,10 @@ iframe {
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
 }
+#layout{
+  width: 100% auto;
+  
+}
 
 .border_right {
   border-right: 1px dotted #ccc;
