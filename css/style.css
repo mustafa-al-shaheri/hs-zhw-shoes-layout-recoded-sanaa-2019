@@ -120,10 +120,10 @@ iframe {
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
 }
-/*#layout{*/*/
-/*  width: 100% auto;*/
-/*  display: inline;*/
-/*}*/
+#layout{*/
+  width: 100% auto;
+  display: inline;
+}
 .layout{
   width: 66%;
   padding: 10px;
