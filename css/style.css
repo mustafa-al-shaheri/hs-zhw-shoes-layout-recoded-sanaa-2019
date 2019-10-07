@@ -112,6 +112,8 @@ iframe {
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+   width: 100% auto;
+ 
 }
 
 .milk_text {
@@ -119,6 +121,36 @@ iframe {
   color: white;
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
+}
+/*.shadow #layout{*/
+ 
+/*}*/
+.layout{
+  width: 66%;
+  padding: 10px;
+  display: inline;
+    float: left;
+}
+.layout1{
+  width: 32%;
+  padding: 10px;
+  margin: 1%;
+  float: left;
+  display: inline;
+}
+.deal{
+  width: 31%;
+  padding: 10px;
+  margin: 1%;
+  float: left;
+  display: inline;
+}
+.footer{
+ width: 31%;
+  padding: 10px;
+  margin: 1%;
+  float: left;
+  display: inline; 
 }
 
 .border_right {
