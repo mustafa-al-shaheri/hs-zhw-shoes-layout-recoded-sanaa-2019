@@ -124,7 +124,10 @@ iframe {
   width: 100% auto;
   
 }
-.layout 
+.layout{
+  width: 66%;
+  padding: 10px;
+}
 
 .border_right {
   border-right: 1px dotted #ccc;
