@@ -127,6 +127,12 @@ iframe {
 .layout{
   width: 66%;
   padding: 10px;
+  margin: 1%
+}
+.layout1{
+  width: 32%;
+  padding: 10px;
+  margin: 1%;
 }
 
 .border_right {
