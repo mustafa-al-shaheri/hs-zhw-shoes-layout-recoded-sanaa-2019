@@ -134,6 +134,7 @@ iframe {
   width: 32%;
   padding: 10px;
   margin: 1%;
+  float: left;
 }
 
 .border_right {
